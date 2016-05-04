@@ -1,0 +1,10 @@
+{
+  "name": "garrinar/tools-files",
+  "description": "Tools for work with files",
+  "type": "metapackage",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "garrinar/tools-files-pdf": "1.*"
+  }
+}
